@@ -1,0 +1,8 @@
+Topic Other with 4,744,306 tweets and 1,791,362 users
+Topic Politics with 2,156,793 tweets and 856,923 users
+Topic Solutions with 989,239 tweets and 504,457 users
+Topic Contrarian with 2,177,538 tweets and 995,045 users
+Topic Impacts with 1,211,292 tweets and 629,748 users
+Topic Movements with 501,651 tweets and 321,259 users
+Topic Causes with 574,621 tweets and 336,541 users
+Topic Covid with 115,760 tweets and 90,962 users
