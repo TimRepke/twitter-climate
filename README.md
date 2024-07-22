@@ -1,8 +1,11 @@
 # Twitter Analysis of "climate change" tweets
 
-This repository hosts code and data for our publication "Attention to climate change only temporarily diverted by COVID-19".   
+This repository hosts code and data for our publication "How global crises compete for our attention: Insights from 13.5 million tweets on climate change during COVID-19".   
 **Authors:** Tim Repke, Max Callaghan, William Lamb, Sarah Lück, Finn Müller-Hansen, Jan Minx (all @MCC_Berlin)   
 **Keywords:** Climate Change, COVID-19 Pandemic, Public Attention, Social Media, Topic Model
+
+Published 2024 in ERSS:  
+https://www.sciencedirect.com/science/article/pii/S2214629624002597
 
 ---
 > The COVID-19 pandemic disrupted peoples' daily lives and dominated the public discourse.
